@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Männergruppe Freiburg
 
-You can use the [editor on GitHub](https://github.com/biocarl/maenner-freiburg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Männergruppe Freiburg - der Treffpunkt für alle Männer der Region Südbaden
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p>Mannsein heute: Die Anforderungen an M&auml;nner haben sich in den letzten 50 Jahren rapide gewandelt. Auch die Vorstellungen vieler M&auml;nner, was ihr Mannsein ausmacht, unterscheiden sich stark von denen ihrer V&auml;ter und Gro&szlig;v&auml;ter.</p>
+<p>Viele M&auml;nner sehen f&uuml;r sich nur zwei Alternativen: ein Macho oder ein Softie zu sein. Wir glauben, dass beides nicht n&ouml;tig ist. Mannsein ist vielf&auml;ltig: lustvoll, nachdenklich, mal schwach, mal kraftvoll. M&auml;nner k&ouml;nnen sensibel sein und selbstbewusst, ernst und humorvoll, z&ouml;gerlich und entschlossen.</p>
+<p>Jeden Freitag treffen sich in Freiburg M&auml;nner aus der Stadt und dem Umland, um sich auszutauschen, zuzuh&ouml;ren, zu erz&auml;hlen, neue Ideen zu spinnen, ihre Leidenschaft und ihren Schmerz zu teilen.</p>
+<p>Wir beginnen den Abend mit k&ouml;rperlicher Aktion (Fu&szlig;ball, Tanz, Kampf, je nach Lust und Laune) - der Stress der Woche wird abgesch&uuml;ttelt. Dann folgt eine stille Meditation - wir kommen zu unserem Kern zur&uuml;ck, sp&uuml;ren uns klarer als zuvor. Nach dieser Vorbereitung sind wir offen f&uuml;r den Erfahrungsaustausch &uuml;ber die Themen, die einzelne Teilnehmer mitbringen.</p>
+<p>Die &auml;lteste M&auml;nnergruppe Freiburgs besteht seit &uuml;ber 23 Jahren. Die Zusammensetzung hat sich immer wieder ge&auml;ndert, und auch die Treffpunkte haben gewechselt. Was immer stabil bleibt, ist der w&ouml;chentliche Termin: freitags von 20.00 bis 23.00 Uhr, der ideale Zeitpunkt, f&uuml;r einen gemeinsamen Wochenr&uuml;ckblick.</p>
+<p>Zurzeit finden unsere Treffen im Vauban statt. Vor dem ersten Besuch bitte <a href="kontakt.html" target="_top">anrufen</a>. <a href="kontakt.html" target="_top">Hier</a> erf&auml;hrst du alles Weitere.</p>
+<p>&nbsp;</p>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/biocarl/maenner-freiburg/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
