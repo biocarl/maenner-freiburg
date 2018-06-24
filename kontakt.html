@@ -1,1 +1,20 @@
-<h1>Schaue in 2 Wochen nochmal vorbei ;) ~ 8.06.2018</h1>
+---
+layout: base
+---
+
+<div class="wrapper">
+  <header>
+    {% if site.compass.logo %}
+    <div class="logo-container">
+      <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+    </div>
+    {% endif %}
+
+    <div class="author-container"><h1>Kontakt</h1></div>
+
+    <div class="tagline-container"><p>Wir freuen uns, dass du dich für unsere Gruppe interessierst.</p></div>
+    <div class="tagline-container"><p>Am besten rufst du uns gleich an und wir sagen dir den genauen Ort und die Zeit.</p></div>
+    <div style="background-image: url('{{ site.baseurl }}{{ site.compass.contact }}');"><br><br></div>
+  </header>
+
+</div>
